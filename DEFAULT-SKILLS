@@ -3,7 +3,6 @@ mycroft-pairing
 mycroft-configuration
 mycroft-installer
 mycroft-stop
-mycroft-naptime
 mycroft-playback-control
 mycroft-speak
 fallback-query
@@ -15,8 +14,6 @@ fallback-unknown
 mycroft-alarm
 mycroft-audio-record
 mycroft-date-time
-mycroft-hello-world
-mycroft-ip
 mycroft-joke
 mycroft-npr-news
 mycroft-personal
