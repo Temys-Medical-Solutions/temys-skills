@@ -6,7 +6,6 @@ mycroft-stop
 mycroft-naptime
 mycroft-playback-control
 mycroft-speak
-mycroft-volume
 fallback-query
 
 # common
@@ -21,7 +20,6 @@ mycroft-ip
 mycroft-joke
 mycroft-npr-news
 mycroft-personal
-mycroft-reminder
 mycroft-singing
 mycroft-spelling
 mycroft-support-helper
