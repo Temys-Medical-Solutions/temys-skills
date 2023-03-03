@@ -45,7 +45,7 @@
 	url = https://github.com/mycroftai/skill-npr-news.git
 [submodule "mycroft-pairing"]
 	path = skill-pairing
-	url = https://github.com/mycroftai/skill-pairing.git
+	url = https://github.com/Temys-Medical-Solutions/skill-pairing.git
 [submodule "mycroft-personal"]
 	path = skill-personal
 	url = https://github.com/mycroftai/skill-personal.git
