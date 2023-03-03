@@ -11,12 +11,10 @@ fallback-query
 mycroft-fallback-duck-duck-go
 fallback-wolfram-alpha
 fallback-unknown
-mycroft-audio-record
 mycroft-date-time
 mycroft-joke
 mycroft-npr-news
 mycroft-personal
-mycroft-singing
 mycroft-spelling
 mycroft-support-helper
 mycroft-timer
