@@ -4,7 +4,6 @@ mycroft-configuration
 mycroft-installer
 mycroft-stop
 mycroft-playback-control
-mycroft-speak
 fallback-query
 
 # common
@@ -15,7 +14,6 @@ mycroft-date-time
 mycroft-joke
 mycroft-npr-news
 mycroft-personal
-mycroft-spelling
 mycroft-support-helper
 mycroft-timer
 mycroft-weather

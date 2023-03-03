@@ -4,7 +4,6 @@ mycroft-configuration
 mycroft-installer
 mycroft-stop
 mycroft-playback-control
-mycroft-speak
 fallback-query
 
 # desktop

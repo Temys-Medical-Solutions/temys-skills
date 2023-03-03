@@ -10,8 +10,6 @@ mycroft-installer
 mycroft-stop
 mycroft-naptime
 mycroft-playback-control
-mycroft-speak
-mycroft-volume
 fallback-query
 
 # common
