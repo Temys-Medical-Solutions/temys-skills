@@ -10,7 +10,6 @@ fallback-query
 mycroft-fallback-duck-duck-go
 fallback-wolfram-alpha
 fallback-unknown
-mycroft-date-time
 mycroft-joke
 mycroft-npr-news
 mycroft-personal
